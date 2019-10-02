@@ -1,5 +1,5 @@
 /*Desktop*/
-@media only screen and (min-width: 658px) {
+@media only screen and (min-width: 768px) {
   h1 {
         text-align: center;
         font-size: 25px;
@@ -12,15 +12,14 @@
     background-color: #614251;
     font-family: 'Amatic SC', cursive;
   }
-input {
-        width: 87%;
-        padding: 10px 20px;
+  input {
+        width: 350px;
+        padding: 10px 10px;
         margin: 15px 0;
         display: inline-block;
         border: 1px solid #ccc;
         border-radius: 4px;
         box-sizing: border-box;
-        text-align: center;
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
         font-family: 'Rajdhani', sans-serif;    }
   form{
@@ -28,6 +27,18 @@ input {
     margin:auto;
     text-align:center;
   }
+  #phone {
+        padding-bottom: 2%;
+        text-align: center;
+
+    }
+
+  #email {
+        padding-bottom: 2%;
+        text-align: center;
+
+
+    }
 }
 /*Mobile*/
 @media only screen and (min-width:360px) {
@@ -36,13 +47,13 @@ input {
         font-size: 25px;
         font-weight: 300;
         padding-top: 2%;
-        padding-bottom: 8%;  }
+        padding-bottom: 5%;  }
   body {
     text-align:center;
     background-color: #614251;
     font-family: 'Amatic SC', cursive;
   }
-input {
+  input {
         width: 350px;
         padding: 10px 10px;
         margin: 15px 0;
@@ -53,9 +64,16 @@ input {
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
         font-family: 'Rajdhani', sans-serif;
  }
-  form{
-    width:75%;
-    margin:auto;
-    text-align:center;
-  }
+  #phone {
+        padding-bottom: 2%;
+        text-align: center;
+
+    }
+
+  #email {
+        padding-bottom: 2%;
+        text-align: center;
+
+
+    }
 }  
