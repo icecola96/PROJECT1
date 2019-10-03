@@ -9,7 +9,7 @@
   }
   body {
     text-align:center;
-    background-color: #614251;
+    background-color: #d676a3;
     font-family: 'Amatic SC', cursive;
   }
   input {
@@ -35,7 +35,7 @@
 
     }
   #submit_button {
-        background-color: #267e6b;
+        background-color: #67e4c7;
         border: none;
         color: black;
         padding: 15px 32px;
@@ -59,7 +59,7 @@
         padding-bottom: 5%;  }
   body {
     text-align:center;
-    background-color: #614251;
+    background-color: #d676a3;
     font-family: 'Amatic SC', cursive;
   }
   input {
@@ -86,7 +86,7 @@
 
   #submit_button
     {
-        background-color: #267e6b;
+        background-color: #67e4c7;
         border: none;
         color: black;
         padding: 15px 32px;
