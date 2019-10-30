@@ -92,6 +92,7 @@
   #submit_button
     {
         background-color: #67e4c7;
+        text-transform: uppercase;
         border: none;
         color: black;
         padding: 15px 32px;
